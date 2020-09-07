@@ -15,6 +15,6 @@ if (homenPodeAposentar) {
     } else {
         console.log('homem pode se aposentar e a mulher não')
     }
-}   else {
+}   else {  
     console.log('homem não pode se aposentar')
 }
